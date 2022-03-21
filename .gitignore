@@ -1,0 +1,44 @@
+HELP.md
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+.metadata
+src/main/java/META-INF/MANIFEST.MF
+logs
+br.org.cidadessustentaveis.model.noticias.Noticia
+/e1c76d7a-867b-4dae-8444-9c7cd1a8790e
+/e2d985f9-9fc4-4447-89be-a106f89cbc68
+/e5bfa55d-b25b-4e77-95ad-a63ceb4852f4
+/eeed32fb-6c57-4387-a692-ba184937c5d3
+/f0697bab-2c27-410e-af24-427c1d0d67f5
+/f0cc7811-a1ae-40ab-b35d-19beb8e107ce
+/f1ac8c86-7621-45a9-ac50-2541b41b4bce
+/fe510460-37bd-4f8b-9d87-33a159d71978
+/ff7dfb5d-8ecf-459f-ac11-c7fe3b0001ea
+br.org.cidadessustentaveis.model.*
+
+/shapes/
+/shapesimportados/
+/pcs_static_files/
