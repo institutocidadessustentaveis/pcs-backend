@@ -5,18 +5,18 @@ Código-fonte do projeto do [Programa Cidades Sustentáveis](https://www.cidades
 
 - [Java](https://docs.oracle.com/en/java/) v8;
 - [Maven](https://maven.apache.org/guides/);
-- [Spring Framework](https://docs.spring.io/spring-framework/docs/current/reference/html/)v2.1.3;
-- [PostgreSQL](https://www.postgresql.org/docs/)v11;
-- [PostGIS](https://postgis.net/documentation/)v3.0.1;
+- [Spring Framework](https://docs.spring.io/spring-framework/docs/current/reference/html/) v2.1.3;
+- [PostgreSQL](https://www.postgresql.org/docs/) v11;
+- [PostGIS](https://postgis.net/documentation/) v3.0.1;
 - [Sprint Tools 4 For Eclipse](https://spring.io/tools);
 
 ## Ferramentas necessárias para execução do projeto e instruções de instalação:
 
 - [Git](https://git-scm.com/downloads);
-- [Java](https://www.oracle.com/br/java/technologies/javase/javase8-archive-downloads.html) (v8);
+- [Java](https://www.oracle.com/br/java/technologies/javase/javase8-archive-downloads.html) v8;
 - [Maven](https://maven.apache.org/install.html);
-- [PostgreSQL](https://www.postgresql.org/download/) (v11);
-- [PostGIS](https://postgis.net/install/) (v3.0.1);
+- [PostgreSQL](https://www.postgresql.org/download/) v11;
+- [PostGIS](https://postgis.net/install/) v3.0.1;
 
 ## Como clonar o projeto
 
